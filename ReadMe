@@ -1,0 +1,37 @@
+green-home-auto
+4 Oct 2016
+Location: Cape Town, South Africa
+Home automation system.
+9 x 305W Canadian Solar PV panels
+Microcare 60A MPPT
+8 x Sonic 105Ah Gel Batteries
+MLT Drives 4KVA Pure sine wave inverter
+Flat Plate thermo syphon solar collector and GeyserWise
+
+Annual average daily power usage before PV panels 7kWh per day ( to Utility R10.00pd)
+Post installation approx 15kWh per day (wish to lift this). ( while decreasing to utility R10.00pm to R300.00pm)
+Payback period approx 5years at 7kWhpd then approx 20years “free power”
+
+Work in progress.
+1. Aduino Mega , sensors and 8ch relay board purchased September 2016.
+2. Tutorials, demo and coding testing underway.
+3. Challenges, 
+  1. RS232C comms to MPPT( to download Battery V and Current and PV power)
+  2. Creating stack to prioritise use of excess capacity automaticlly:
+  1. Battery boosting at 45V from utility. (if NO utility shed loads) Also for total computer failure, or MPPT or Batteries or Panels. Inverter kicks off at automatically at 40V. Batteries boosted to 57V and float at 54.5V if V maintained above 45V then a life of about 10years+ can be expected from batteries
+  2. Water security system pump to run (circulate) when excess power OR NO water from utility AND at least once  a week AND to bring in fresh water from utility.
+  3. Fridge and deep freeze (Always ON) 
+  4. Dishwasher (must run to completion once started)
+  5. Geyser (boosting during poor weather)
+  6. Microwave
+  7. Stove
+  8. Toaster/breadmaker/Induction plate
+  9. Inverter anti-virus aircons x 2
+4. Routine to change priorites in2 above on demand from user 
+
+I am retired and have limited financial resources to pay others to develop and installthis system.
+Any help suggestions gratefully aaccepted.
+
+
+
+
